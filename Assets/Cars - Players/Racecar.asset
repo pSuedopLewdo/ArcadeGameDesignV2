@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0de647944b7f473d9741518eb1d10e8, type: 3}
+  m_Name: Racecar
+  m_EditorClassIdentifier: 
+  name: 
+  description: 
+  speed: 11
+  grassSpeed: 4
+  model: {fileID: 3723425669343820714, guid: bcd15255c95144cf9a286913204174f6, type: 3}
